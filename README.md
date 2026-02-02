@@ -1,24 +1,23 @@
 Regex Data Extraction Project
+Overview 
+This project shows an application of regular expressions (regex) in Python to get structured information out of unstructured text. The program will take the input of a text file and find the occurrence of certain kinds of data by using a regular expression and return them in a clean Json format.
 
-Overview
-This project demonstrates the use of regular expressions (regex) in Python to extract structured information from unstructured text. The program reads input from a text file, identifies specific data types using regex patterns, and outputs the results in a clean JSON format.
-
-The goal is to showcase practical regex usage, defensive input handling, and secure data extraction.
+The idea is to demonstrate real world usages of regular expressions, defensive input processing and safe data mining.
 
 Features
-The program can identify and extract the following data types:
+The program is able to extract the following types of data:
 
-Emails – standard formats including multi‑part domains.
+Emails – standard formats with multi-part domains.
 
-URLs – both HTTP and HTTPS links.
+URLs – HTTP and HTTPS.
 
-Phone numbers – Rwanda (+250, local formats) and US formats.
+Phone numbers – Rwanda (local formats +250, local formats), and US formats.
 
-Currency values – USD ($) and Rwandan Francs (RWF/FRW), both prefix and suffix styles.
+Currency values – USD ($) and Rwandan Francs (RWF/FRW) in prefix and suffix.
 
-HTML tags – including tags with attributes.
+HTML elements – such as attribute-containing tags.
 
-Hashtags – words or phrases prefixed with #.
+Hashtags – words or phrases that begin with a hash (#).
 
 How It Works:
 Input: Place text into input.txt.
@@ -49,13 +48,13 @@ json
 }
 
 Security Considerations
-Regex patterns are designed to reject malformed input.
+Regex patterns are designed to reject bad input.
 
-Extracted data is stored safely in JSON and not executed.
+The data extracted is stored safely in JSON and is not executed.
 
 Sensitive data (e.g., emails) is handled minimally to avoid unnecessary exposure.
 
-The program demonstrates awareness of adversarial input without implementing a full backend security system.
+The program is aware of adversarial input but does not deploy a comprehensive backend security system.
 
 Conclusion
-This project highlights how regex can transform unstructured text into structured data. It provides a practical example of pattern recognition, secure handling of input, and clear output formatting.
+This project brings to light the fact that regex is able to process unstructured data (text) and convert it into structured data. It gives a real world demonstration of pattern recognition, safe processing of input, and concise presentation of output.

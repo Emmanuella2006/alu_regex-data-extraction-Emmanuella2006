@@ -1,0 +1,17 @@
+Hello team,
+
+Please contact me at emmanuellagacuti@gmail.com or support@company.gov.bu for project updates.
+You can also visit our website: https://www.agriculture-burundi.org or http://example.com/resources.
+
+For inquiries, call me on +250 788123456 or 0788123456.
+Our US office line is (123) 456-7890 or 123-456-7890.
+
+The project budget is $1,234.56 for US operations and RWF 2,500,000 for Rwanda.
+We also received FRW 500,000 in donations. Another report shows 1,000 RWF spent on logistics.
+
+Here is a sample HTML snippet: <div class="container"><p>Welcome to Rwanda!</p></div>
+
+Don’t forget to follow our campaign hashtags: #UbuntuLeadership #AgriTech #burundi2026
+
+Best regards,
+Project Coordination Team

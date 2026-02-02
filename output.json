@@ -1,0 +1,45 @@
+{
+    "emails": [
+        "com",
+        "bu"
+    ],
+    "urls": [
+        "https://www.agriculture-burundi.org",
+        "http://example.com/resources."
+    ],
+    "phones": [
+        "+250 788123456",
+        "0788123456",
+        "(123) 456-7890",
+        "123-456-7890"
+    ],
+    "currency": [
+        [
+            "$1,234.56",
+            ""
+        ],
+        [
+            "RWF 2,500,000",
+            ""
+        ],
+        [
+            "FRW 500,000",
+            ""
+        ],
+        [
+            "1,000 RWF",
+            "RWF"
+        ]
+    ],
+    "html_tags": [
+        "<div class=\"container\">",
+        "<p>",
+        "</p>",
+        "</div>"
+    ],
+    "hashtags": [
+        "#UbuntuLeadership",
+        "#AgriTech",
+        "#burundi2026"
+    ]
+}
